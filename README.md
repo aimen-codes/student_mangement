@@ -3,33 +3,33 @@
 
 A simple Student Management System built during a Web Development course using HTML, CSS, Bootstrap 5, PHP, and MySQL.
 
-##✨ Features
+## ✨ Features
 
--Add student
+- Add student
 
--View students
+- View students
 
--Edit student details
+- Edit student details
 
--Delete student records
+- Delete student records
 
--MySQL database integration
+- MySQL database integration
 
--Responsive design
+- Responsive design
 
 ##🛠️ Technologies
 
--HTML5
+- HTML5
 
--CSS3
+- CSS3
 
--Bootstrap 5
+- Bootstrap 5
 
--PHP
+- PHP
 
--MySQL
+ - MySQL
 
-##📸 Screenshots
+## 📸 Screenshots
 Student List
 
 Add Student
