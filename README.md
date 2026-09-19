@@ -1,5 +1,5 @@
-## 🎓 Student Management System
-# PHP & MySQL CRUD Web Application
+# 🎓 Student Management System
+## PHP & MySQL CRUD Web Application
 
 A simple Student Management System built during a Web Development course using HTML, CSS, Bootstrap 5, PHP, and MySQL.
 
@@ -17,7 +17,7 @@ A simple Student Management System built during a Web Development course using H
 
 - Responsive design
 
-##🛠️ Technologies
+## 🛠️ Technologies
 
 - HTML5
 
@@ -30,14 +30,14 @@ A simple Student Management System built during a Web Development course using H
  - MySQL
 
 ## 📸 Screenshots
-Student List
+- Student List
 
-Add Student
+- Add Student
 
-Edit Student
+- Edit Student
 
-👩‍💻 Author
+# 👩‍💻 Author
 
-Aimen Khan
+## Aimen Khan
 
-Project Type: Course Project
+## Project Type: Course Project
